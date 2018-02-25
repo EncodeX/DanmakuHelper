@@ -1,6 +1,24 @@
 DanmakuHelper
 =============  
 
+022418
+
+* Fork for the purpose of backup
+* 备份目的的Fork
+
+13年与@Miantang共同完成的工具. 负责的部分为:
+
+* 背景图片导入, 透明度调整等
+* 图层系统
+* 二次贝塞尔钢笔
+* 拖拽
+* 取色
+* 帮助
+
+以下为原文档
+
+===============
+
 **A multi-layer drawing software based on Vector code for BiliScript(also can be called mode8)**
 
 **一款多图层矢量代码绘图工具。适用于bilibili.com的高级代码弹幕图像绘制/转换。**
